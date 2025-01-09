@@ -23,6 +23,7 @@
       },
       "package": "com.dhonore.expoissuereproductions"
     },
+    "plugins": ["expo-calendar", "expo-contacts"],
     "web": {
       "favicon": "./assets/favicon.png"
     }
